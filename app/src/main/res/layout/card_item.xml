@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/edge"
+    android:orientation="vertical"
+    android:layout_width="70dp"
+    android:layout_height="103dp"
+    android:layout_margin="3dp">
+    <ImageView
+        android:id="@+id/card_image"
+        android:layout_width="70dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="2dp"
+        android:layout_gravity="center_horizontal"/>
+
+
+
+</LinearLayout>
